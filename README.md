@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hey 👋 I'm Javier Rodriguez</h1>
 <h3 align="center">Backend Developer | System Builder | Problem Solver 🚀</h3>
 
@@ -10,10 +9,10 @@
 
 ## 👨‍💻 About Me
 
-💼 Developer focused on creating real business systems  
-🐾 Creator of veterinary management software  
-⚙️ Passionate about backend, databases and automation  
-🚀 Always improving processes with code  
+💼 Developer focused on creating real business systems
+🐾 Creator of veterinary management software
+⚙️ Passionate about backend, databases and automation
+🚀 Always improving processes with code
 📍 Mexico
 
 ---
@@ -37,9 +36,9 @@
 
 ## 🔥 Current Projects
 
-🐾 Veterinary ERP / POS System  
-📦 Inventory & Lot Control  
-📈 Reports and Dashboards  
+🐾 Veterinary ERP / POS System
+📦 Inventory & Lot Control
+📈 Reports and Dashboards
 🌐 APIs and Integrations
 
 ---
@@ -55,4 +54,3 @@
 <p align="center">
 ✨ Code with purpose. Build with passion.
 </p>
-```
